@@ -1,0 +1,2 @@
+# LCDS-scoreboard
+Squash scoreboard
